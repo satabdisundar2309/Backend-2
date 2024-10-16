@@ -1,0 +1,16 @@
+{
+  "name": "backend-2-todo-app",
+  "version": "1.0.0",
+  "description": "Todo app backend with folder structures and all.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Satabdisundar Behera",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.2.3"
+  }
+}
